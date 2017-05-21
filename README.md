@@ -1,4 +1,5 @@
 Getting and Cleaning Data Course Project - Run Analysis R Script
+====================================================================
 Author: Yiran Melissa Gu
 Date: May 21, 2017 EST
 Location: Toronto, Ontario, Canada
